@@ -2,7 +2,7 @@ function App() {
   return (
     <html>
       <head>
-        <title>Cesar Almendarez</title>
+        <title>CAPORTFOLIO</title>
       </head>
       <div>
         <h1 style={{fontFamily: 'Courier New'}}>Cesar Almendarez</h1>
