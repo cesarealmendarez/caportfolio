@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/caportfolio/static/js/main.6563ff80.chunk.js",
-    "main.js.map": "/caportfolio/static/js/main.6563ff80.chunk.js.map",
+    "main.js": "/caportfolio/static/js/main.8d4927f5.chunk.js",
+    "main.js.map": "/caportfolio/static/js/main.8d4927f5.chunk.js.map",
     "runtime-main.js": "/caportfolio/static/js/runtime-main.df9733a2.js",
     "runtime-main.js.map": "/caportfolio/static/js/runtime-main.df9733a2.js.map",
     "static/js/2.85261479.chunk.js": "/caportfolio/static/js/2.85261479.chunk.js",
@@ -9,11 +9,12 @@
     "static/js/3.66e587ce.chunk.js": "/caportfolio/static/js/3.66e587ce.chunk.js",
     "static/js/3.66e587ce.chunk.js.map": "/caportfolio/static/js/3.66e587ce.chunk.js.map",
     "index.html": "/caportfolio/index.html",
-    "static/js/2.85261479.chunk.js.LICENSE.txt": "/caportfolio/static/js/2.85261479.chunk.js.LICENSE.txt"
+    "static/js/2.85261479.chunk.js.LICENSE.txt": "/caportfolio/static/js/2.85261479.chunk.js.LICENSE.txt",
+    "static/media/peertopeerlogo.7c2607a4.png": "/caportfolio/static/media/peertopeerlogo.7c2607a4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.df9733a2.js",
     "static/js/2.85261479.chunk.js",
-    "static/js/main.6563ff80.chunk.js"
+    "static/js/main.8d4927f5.chunk.js"
   ]
 }
